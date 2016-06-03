@@ -1,0 +1,28 @@
+name: PabloBotella
+favicon: null
+layout_spectrum: 0.2151253535412252
+typography_spectrum: 0.6132076466456056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14453157759271562
+  lightness: 0.06715074507519603
+  saturation: 0.5500330531504005
+  rhythmicContrast: 0.8486149872187525
+purpose: []
